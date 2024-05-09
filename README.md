@@ -2,8 +2,8 @@
 
 # fileExtension links (Onedrive):
 
-# VECTORIAL ENCODINGS OF QUALITATIVE DOMAINS(Julian): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EvfNuWpeY2NGuQRhuDkCGdEBFqOq6fCV8uFjPZSV_jBC2Q?e=vWzF7f
+## VECTORIAL ENCODINGS OF QUALITATIVE DOMAINS(Julian): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EvfNuWpeY2NGuQRhuDkCGdEBFqOq6fCV8uFjPZSV_jBC2Q?e=vWzF7f
 
-HOUDINI(Joris): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EljW0hWAGEdGoGJIr3gMlSoBCFF6kU9Clh3A60Quy4d_ng?e=BIBHDb
+##HOUDINI(Joris): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EljW0hWAGEdGoGJIr3gMlSoBCFF6kU9Clh3A60Quy4d_ng?e=BIBHDb
 
-COMPUTABILITY COMPLEXITY(Ceel): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EvadP6az2Z9DuwrA-fWuwCwBEAZ-IGx_HICB4tn-rDZwPA?e=mnCx23
+##COMPUTABILITY COMPLEXITY(Ceel): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EvadP6az2Z9DuwrA-fWuwCwBEAZ-IGx_HICB4tn-rDZwPA?e=mnCx23
