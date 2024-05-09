@@ -5,6 +5,10 @@
 #### VECTORIAL ENCODINGS OF QUALITATIVE DOMAINS(Julian): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EvfNuWpeY2NGuQRhuDkCGdEBFqOq6fCV8uFjPZSV_jBC2Q?e=vWzF7f 
 Contains all files and data. (File size is limited. GitHub cannot upload all files)
 
+
 #### HOUDINI(Joris): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EljW0hWAGEdGoGJIr3gMlSoBCFF6kU9Clh3A60Quy4d_ng?e=BIBHDb
+The 3D Reconstruction assessment could not upload through Github, this link contains assessment 1,3, and json file of assessment 4
+
 
 #### COMPUTABILITY COMPLEXITY(Ceel): https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvz02_ucl_ac_uk/EvadP6az2Z9DuwrA-fWuwCwBEAZ-IGx_HICB4tn-rDZwPA?e=mnCx23
+PDF file and the coding.ipynb
